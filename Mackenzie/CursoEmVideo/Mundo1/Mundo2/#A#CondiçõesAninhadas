@@ -1,0 +1,4 @@
+aninhar = "encaixar uma coisa dentro da outra"
+
+elif = substitui um par de else-if, sendo o uso de um else no final opcional. Sempre acompanhado de um if no começo antes de usa-lo.
+
